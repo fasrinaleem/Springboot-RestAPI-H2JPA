@@ -1,0 +1,7 @@
+INSERT INTO STUDENT(id, student_name, age) VALUES(1, 'Fasrin', 24);
+INSERT INTO STUDENT(id, student_name, age) VALUES(2, 'Aleem', 35);
+INSERT INTO STUDENT(id, student_name, age) VALUES(3, 'John', 27);
+
+
+INSERT INTO BOOK(id, book_name, student_id) VALUES(101, 'Java Basics', 1);
+INSERT INTO BOOK(id, book_name, student_id) VALUES(102, 'Java Advance', 1);
